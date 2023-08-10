@@ -1,21 +1,21 @@
 {
   "pins" : [
     {
+      "identity" : "virgil-crypto-c",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/VirgilSecurity/virgil-crypto-c.git",
+      "state" : {
+        "revision" : "591c32a4c54378e750c80052d7588df8056525b0",
+        "version" : "0.17.0"
+      }
+    },
+    {
       "identity" : "virgil-crypto-x",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/VirgilSecurity/virgil-crypto-x.git",
       "state" : {
-        "revision" : "eee53f493c6dcdefe49378d2967b7fe750ad18e0",
-        "version" : "6.0.1"
-      }
-    },
-    {
-      "identity" : "virgil-cryptowrapper-x",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/VirgilSecurity/virgil-cryptowrapper-x.git",
-      "state" : {
-        "revision" : "957bf2113ea570f1b934ffab5bbfbc8e12c7e6a3",
-        "version" : "0.16.1"
+        "revision" : "96fef3abb3c96eec0c14cdf3f406658776071dbd",
+        "version" : "7.0.0"
       }
     },
     {
@@ -23,8 +23,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/VirgilSecurity/virgil-pythia-x.git",
       "state" : {
-        "revision" : "4a259dd70fa3ae27ad65054d54c617a870de53e5",
-        "version" : "0.11.0"
+        "branch" : "0.12.0-dev.1",
+        "revision" : "5b8eb3a4a8e891826d8a2c0d00e13a4b246aa596"
       }
     },
     {
@@ -32,8 +32,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/VirgilSecurity/virgil-ratchet-x.git",
       "state" : {
-        "revision" : "16f7669ea056b411cc11a13118b4354d0bef18fe",
-        "version" : "0.9.0"
+        "revision" : "19e28149a973aba2f70ba1c0cf176fa15e84e278",
+        "version" : "0.10.0"
       }
     },
     {
@@ -41,8 +41,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/VirgilSecurity/virgil-sdk-x.git",
       "state" : {
-        "revision" : "4ea08d9ad458c9197961d88dbc163ee1a608fa84",
-        "version" : "8.1.0"
+        "revision" : "7165aafa08be93a874097033ec903bac447e4b9b",
+        "version" : "9.0.0"
       }
     }
   ],
