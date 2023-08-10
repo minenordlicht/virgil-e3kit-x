@@ -15,7 +15,7 @@ let package = Package(
     ],
 
     dependencies: [
-        .package(url: "https://github.com/VirgilSecurity/virgil-pythia-x.git", branch: "0.12.0-dev.1"),
+        .package(url: "https://github.com/minenordlicht/virgil-pythia-x.git", branch: "0.11.1"),
         .package(url: "https://github.com/VirgilSecurity/virgil-ratchet-x.git", exact: .init(0, 10, 0))
     ],
 

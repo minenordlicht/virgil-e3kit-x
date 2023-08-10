@@ -19,12 +19,21 @@
       }
     },
     {
+      "identity" : "virgil-cryptowrapper-x",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/VirgilSecurity/virgil-cryptowrapper-x.git",
+      "state" : {
+        "revision" : "957bf2113ea570f1b934ffab5bbfbc8e12c7e6a3",
+        "version" : "0.16.1"
+      }
+    },
+    {
       "identity" : "virgil-pythia-x",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/VirgilSecurity/virgil-pythia-x.git",
+      "location" : "https://github.com/minenordlicht/virgil-pythia-x.git",
       "state" : {
-        "branch" : "0.12.0-dev.1",
-        "revision" : "5b8eb3a4a8e891826d8a2c0d00e13a4b246aa596"
+        "branch" : "0.11.1",
+        "revision" : "c6dac52d6a8620b3d757cd4ec9449be463eb7030"
       }
     },
     {
